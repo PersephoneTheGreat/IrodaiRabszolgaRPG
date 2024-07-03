@@ -27,7 +27,7 @@ Office worker simulator in Hungarian, written in Visual Basic, runs in Microsoft
            _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
         _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
      _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
-  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_
+  _-'.-.-.-.-.-. .---.-. .-------------------------. .-.---. .---.-.-.-.`-_/
 
 
 
@@ -39,5 +39,5 @@ Köszönöm mindazoknak, akik inspiráltak a munkában:
 - Szakadt Csöves alkotóinak, Szy-nek és Kamarásnak;
 - A makró tréninget tartó srácoknak;
 - Az Irodai Rabszolga facebook-oldalnak;
-- és A Váci utcának.
+- és A Váci útnak.
 
